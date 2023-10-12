@@ -1,0 +1,4 @@
+Soal
+1. Buatlah suatu program Animasi Deque dengan 6 buah pilihan :
+INSERT KIRI, INSERT KANAN, DELETE KIRI, DELETE KANAN,
+CETAK ANTRIAN, QUIT.
